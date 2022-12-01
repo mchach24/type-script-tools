@@ -1,0 +1,24 @@
+{
+  "name": "type-script-tools",
+  "version": "0.1.0",
+  "description": "Swiss army library to assist developing in TypeScript",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchach24/type-script-tools.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "types",
+    "utility"
+  ],
+  "author": "Matt Hachten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchach24/type-script-tools/issues"
+  },
+  "homepage": "https://github.com/mchach24/type-script-tools#readme"
+}
